@@ -11,7 +11,7 @@ This repository includes the study codebase. Due to the use of commercial assets
 <img src="https://github.com/AnnaLenavonBehren/EyetrackingStudy/blob/78d24798d7041dbe5ecc34861ef276ef7483809f/indoor_scene.png" alt="indoor scene" height="200"/> <img src="https://github.com/AnnaLenavonBehren/EyetrackingStudy/blob/78d24798d7041dbe5ecc34861ef276ef7483809f/outdoor_scene.png" alt="outdoor scene" height="200"/>
 ---
 
-**Technical requirements:** 
+**Technical requirements:**   
 Game Engine: Unity v2022.3.19f1 with C# 9.0   
 VR HMD: HTC Vive Pro Eye and Vive SRanipal SDK v1.3.6.12  
 User input: Xbox controller  
