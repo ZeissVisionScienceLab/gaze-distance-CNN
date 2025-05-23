@@ -1,4 +1,4 @@
-# Eye-tracking Study  
+# Eye tracking Study  
 
 
 The study aims to collect eye tracking data during target fixation in Virtual Reality.  
