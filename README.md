@@ -1,7 +1,7 @@
 # CNN-based gaze distance estimation
 Dataset and code for the publication "CNN-based estimation of gaze distance in virtual reality using eye tracking and depth data".  
 
-## Study 
+## [VR Study](/Study)
 A unity project to collect eye tracking data and ground truth distances while playing a reaction time game in VR.  
 
 ## Study depth extraction
