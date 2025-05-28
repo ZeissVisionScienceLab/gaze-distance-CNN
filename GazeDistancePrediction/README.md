@@ -1,5 +1,5 @@
 ## [CNN](<CNNET>)
-For the CNN training pipeline to run, please download the training data from [10.5281/zenodo.15439043](https://zenodo.org/records/15439043). The CNN requires the file DistanceData.zip to be extracted and saved under /data/distancedata/indoor and /outdoor, respectively. Training the model additionally requires the file [et_data_cnn_rollingmedian.feather](<data/et_data_cnn_rollingmedian.feather>), which contains the preprocessed eye tracking data.  
+For the CNN training pipeline to run, please download the training data from [https://zenodo.org/records/15439043](https://zenodo.org/records/15528181). The CNN requires the file DistanceData.zip to be extracted and saved under /data/distancedata/indoor and /outdoor, respectively. Training the model additionally requires the file [et_data_cnn_rollingmedian.feather](<data/et_data_cnn_rollingmedian.feather>), which contains the preprocessed eye tracking data.  
 
 Run the file [main.py](<CNNET/main.py>) to start training. The training parameters can also be adjusted within that file.  
 
